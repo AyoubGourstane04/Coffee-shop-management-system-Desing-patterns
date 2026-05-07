@@ -1,6 +1,5 @@
 package com.example.system;
 
-import com.example.core.MenuComponent;
 import com.example.order.*;
 
 public class WaiterView implements OrderObserver {
